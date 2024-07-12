@@ -1,0 +1,7 @@
+numpy
+pandas
+seaborn
+scipy
+scikit_posthocs
+patsy
+statsmodels
