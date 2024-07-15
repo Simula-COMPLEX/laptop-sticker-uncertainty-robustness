@@ -2,3 +2,4 @@
 experiments/datasets/dalleimg
 experiments/datasets/sdimg
 *img
+*.jpg
