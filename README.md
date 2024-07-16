@@ -11,3 +11,15 @@ Refurbishing laptops extends their lives while contributing to reducing electron
 
 
 <div align=center><img src="https://github.com/Simula-COMPLEX/laptop-sticker-uncertainty-robustness/blob/main/assets/overview_uq.png" width="960" /></div>
+
+
+
+## Acknowledgements
+
+Our implementation is based on the following repository:
+
+[detecting stickers on laptops with the use of a neural network](https://github.com/emilbak5/Master-Thesis)
+
+[torchvision](https://github.com/pytorch/vision)
+
+[Dense Adversary Generation (DAG)](https://github.com/yizhe-ang/detectron2-1)
